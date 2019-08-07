@@ -3,9 +3,10 @@
 @section('content')
     <h1>My {{$foo}} website</h1>
     <ul>
-        @foreach ($tasks as $task)
+        {{--  passing data to a view  --}}
+        {{--  @foreach ($tasks as $task)
             <li>{{ $task }}</li>
-        @endforeach
+        @endforeach  --}}
     </ul>
     
 @endsection
