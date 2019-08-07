@@ -7,8 +7,7 @@
     <title>Laracasts</title>
 </head>
 <body>
-    <h1>Here! We Go.</h1>
-
+    <h1>Contact Form</h1>
     <ul>
         <li>
             <a href="/">Home</a> us to learn more.

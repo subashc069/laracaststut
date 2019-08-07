@@ -7,8 +7,7 @@
     <title>Laracasts</title>
 </head>
 <body>
-    <h1>Here! We Go.</h1>
-
+    <h1>About US</h1>
     <ul>
         <li>
             <a href="/">Home</a> us to learn more.
@@ -20,5 +19,8 @@
             <a href="/contact">Contact</a> us to learn more.
         </li>
     </ul>
+    <p>
+        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maiores excepturi rem doloremque ducimus, libero asperiores dolorem dolores obcaecati omnis magni odio ratione. Ea, fuga delectus qui corporis neque nulla temporibus.
+    </p>
 </body>
 </html>
