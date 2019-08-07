@@ -1,24 +1,5 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Laracasts</title>
-</head>
-<body>
-    <h1>Here! We Go.</h1>
+@extends('layouts.layout')
 
-    <ul>
-        <li>
-            <a href="/">Home</a> us to learn more.
-        </li>
-        <li>
-            <a href="/about">About Us</a> us to learn more.
-        </li>
-        <li>
-            <a href="/contact">Contact</a> us to learn more.
-        </li>
-    </ul>
-</body>
-</html>
+@section('content')
+<h1>My first website</h1>
+@endsection
